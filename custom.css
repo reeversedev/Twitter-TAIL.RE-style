@@ -1,0 +1,11 @@
+#tweetBox {
+    resize: none;
+    border: dodgerblue solid;
+    border-radius: 50px;
+    height: 150px;
+    width: 520px;
+    font-family: "Helvetica Neue";
+    text-align: center;
+    font-size: 28px;
+    resize: none;
+}
